@@ -70,7 +70,21 @@
             }
         ],
         "steps": [
-
+            {
+                "instruction": "Heat olive oil over medium heat in a large skillet; add onion and sauté for about 5 minutes."
+            },
+            {
+                "instruction": "Add ground pork, breaking into crumbles with the back of a spoon and turning frequently until browned on all sides."
+            },
+            {
+                "instruction": "Add potatoes, salsa and corn; stir and cook 10-15 minutes or until heated through. Fold in cilantro and sprinkle with cheese. Serve immediately."
+            },
+            {
+                "instruction": "Flip the pork chops and add the reserved marinade to the pan; cook for 5 more minutes or until the pork reaches an internal temperature between 145 degrees F. (medium rare) and 160 degrees F. (medium). Let rest for 3 minutes before serving."
+            },
+            {
+                "instruction": "Cook for 5 minutes or until chops have browned on one side."
+            }
         ],
         "keywords": [
             "super", "amazing"
