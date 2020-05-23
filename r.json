@@ -1,7 +1,7 @@
 [
     {
         "id":2323242323,
-        "name" : "Schoggi",
+        "name" : "Autumn Beef Chili",
         "images" : [
             {"image_url" : "https://hips.hearstapps.com/ghk.h-cdn.co/assets/16/38/1474395998-ghk-0216-comfortfoodcover-meatballs.jpg?crop=0.998xw:0.333xh;0,0.541xh&resize=1200:*"},
             {"image_url" : "https://i2.wp.com/www.downshiftology.com/wp-content/uploads/2018/12/Shakshuka-19-500x500.jpg"}
@@ -11,9 +11,62 @@
         },
         "ingredients": [
             {
-                "name": "Cinamon",
+                "name": "Minced meat",
+                "amount" : 100,
+                "unit": "g"
+            },
+            {
+                "name": "Rice",
+                "amount" : 0.5,
+                "unit": "dl",
+                "extra": "uncooked"
+            },
+            {
+                "name": "Sweet potato",
+                "amount" : 1,
+                "unit": "",
+                "extra": "small"
+            },
+            {
+                "name": "Tomato",
                 "amount" : 2,
-                "unit": "kg"
+                "unit": ""
+            },
+            {
+                "name": "Apple",
+                "amount" : 1,
+                "unit": "",
+                "extra": "small"
+            },
+            {
+                "name": "Chalotte onion",
+                "amount" : 1,
+                "unit": ""
+            },
+            {
+                "name": "Cinamon",
+                "amount" : 0.5,
+                "unit": "tsp"
+            },
+            {
+                "name": "Paprika powder",
+                "amount" : 0.5,
+                "unit": "tsp"
+            },
+            {
+                "name": "Coriander powder",
+                "amount" : 0.5,
+                "unit": "tsp"
+            },
+            {
+                "name": "Butter",
+                "amount" : 3,
+                "unit": "tbsp"
+            },
+            {
+                "name": "Yogurth",
+                "amount" : 0.5,
+                "unit": "dl"
             }
         ],
         "steps": [
@@ -40,7 +93,15 @@
             }
         ],
         "steps": [
-            
+            {
+                "instruction": "adgadf adjf ajdhfahd fjadhf ajdhf"
+            },
+            {
+                "instruction": "Do whatever weirdo thing"
+            },
+            {
+                "instruction": "Olala what is this"
+            }
         ],
         "keywords": [
             "super", "amazing"
